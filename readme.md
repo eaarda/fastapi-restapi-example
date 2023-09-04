@@ -45,4 +45,4 @@ Start the server
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.elifarda.dev/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eaadev)
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=D7L9UFMafQc)(Link to the recorded live coding session conducted in collaboration with the Bursa Bilisim Toplulugu)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=RdJQhA23pvo&t=148s)(Link to the recorded live coding session conducted in collaboration with the Bursa Bilisim Toplulugu)
